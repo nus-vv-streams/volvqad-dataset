@@ -15,10 +15,10 @@ The user ratings can be found in the file `ratings.csv` in this repo.
 The file contains six columns:
 
 - User ID: P001 to P120.
-- Quality Feature: Geometry (for geometry compression only), Texture (for texture compression only), or Geometry and Texture (for both)
-- Quality Switching Pattern: ConstantR$x$, Cascade, InverseCascade, SpikeR$x$, and InverseSpikeR$x$
-- Point Cloud Model: loot, redandblack, soldier, and longdress
-- Background Color: black or grey
+- Point Cloud Model: **loot**, **redandblack**, **soldier**, and **longdress**
+- Quality Switching Pattern: **ConstantR$x$, **Cascade**, **InverseCascade**, **SpikeR$x$**, and InverseSpikeR$x$**
+- Quality Feature: **geometry** (for varying geometry quality only), **texture** (for varying texture quality only), or **both** (for varying both geometry and texture quality)
+- Background Color: **black** or **gray**
 - Rating: User rating of this video
 
 ## Paper
