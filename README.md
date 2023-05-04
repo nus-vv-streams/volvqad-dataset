@@ -38,4 +38,3 @@ The 376 test video sequences are derived from the [8i Voxelized Full Bodies (8iV
 
 The test sequence is about 1.5 GB.  Request to access the test video sequence can be made to [ooiwt@comp.nus.edu.sg](ooiwt@comp.nus.edu.sg)
 
-https://drive.google.com/drive/folders/1tSBaNDE5XPGp-qpAwMMkcPR8nSZLs62r?usp=sharing
